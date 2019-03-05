@@ -40,33 +40,6 @@ namespace Property.Controls {
         protected global::AjaxControlToolkit.AutoCompleteExtender AutoCompleteExtender4;
         
         /// <summary>
-        /// txtSearch control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSearch;
-        
-        /// <summary>
-        /// AutoCompleteExtender1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::AjaxControlToolkit.AutoCompleteExtender AutoCompleteExtender1;
-        
-        /// <summary>
-        /// ddlPropType control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlPropType;
-        
-        /// <summary>
         /// ddlPropertyType control.
         /// </summary>
         /// <remarks>

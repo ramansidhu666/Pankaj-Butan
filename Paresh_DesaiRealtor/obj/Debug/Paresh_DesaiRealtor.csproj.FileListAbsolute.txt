@@ -54,3 +54,11 @@ C:\sites\Suchi Gupta\Paresh_DesaiRealtor\bin\Cls_Property.pdb
 C:\sites\Suchi Gupta\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.csprojResolveAssemblyReference.cache
 C:\sites\Suchi Gupta\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.dll
 C:\sites\Suchi Gupta\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.pdb
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.dll.config
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.dll
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.pdb
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\bin\Cls_Property.dll
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\bin\Cls_Property.pdb
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.csprojResolveAssemblyReference.cache
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.dll
+C:\sites\Pankaj Butan\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.pdb
